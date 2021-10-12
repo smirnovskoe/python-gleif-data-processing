@@ -39,5 +39,8 @@ Add data filepath to main.py
 gleif_data('<filepath>')
 ```
 
+## TODO
+- pydantic: postgres dns validation
+
 **Free Software, Hell Yeah!**
 
